@@ -1,0 +1,64 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "C:\\Users\\jlx\\AppData\\Local\\Temp\\d-117414-9404-17asl16.unhfe6ogvi\\package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "C:\\Users\\jlx\\AppData\\Local\\Temp\\d-117414-9404-17asl16.unhfe6ogvi\\package.tgz",
+        "spec": "C:\\Users\\jlx\\AppData\\Local\\Temp\\d-117414-9404-17asl16.unhfe6ogvi\\package.tgz",
+        "type": "local"
+      },
+      "C:\\Users\\jlx\\AppData\\Local\\Temp\\apm-install-dir-117414-9404-1es7ele.cgcfcx47vi"
+    ]
+  ],
+  "_from": "..\\d-117414-9404-17asl16.unhfe6ogvi\\package.tgz",
+  "_id": "language-rapid@0.2.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/language-rapid",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "C:\\Users\\jlx\\AppData\\Local\\Temp\\d-117414-9404-17asl16.unhfe6ogvi\\package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "C:\\Users\\jlx\\AppData\\Local\\Temp\\d-117414-9404-17asl16.unhfe6ogvi\\package.tgz",
+    "spec": "C:\\Users\\jlx\\AppData\\Local\\Temp\\d-117414-9404-17asl16.unhfe6ogvi\\package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:..\\d-117414-9404-17asl16.unhfe6ogvi\\package.tgz",
+  "_shasum": "fdbe20abbd58fc9637df7d90a752b6ddbf476c48",
+  "_shrinkwrap": null,
+  "_spec": "C:\\Users\\jlx\\AppData\\Local\\Temp\\d-117414-9404-17asl16.unhfe6ogvi\\package.tgz",
+  "_where": "C:\\Users\\jlx\\AppData\\Local\\Temp\\apm-install-dir-117414-9404-1es7ele.cgcfcx47vi",
+  "activationCommands": {
+    "atom-workspace": "language-rapid:toggle"
+  },
+  "bugs": {
+    "url": "https://github.com/benlsheets/language-rapid/issues"
+  },
+  "dependencies": {},
+  "description": "Atom support for the ABB RAPID language",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "homepage": "https://github.com/benlsheets/language-rapid#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "./lib/language-rapid",
+  "name": "language-rapid",
+  "optionalDependencies": {},
+  "readme": "# language-rapid package\n\nProvides a grammar for working with the RAPID language used by ABB industrial robots.\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benlsheets/language-rapid.git"
+  },
+  "version": "0.2.0"
+}
