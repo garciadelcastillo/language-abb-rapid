@@ -14,7 +14,7 @@
     ]
   ],
   "_from": "..\\d-117414-9404-17asl16.unhfe6ogvi\\package.tgz",
-  "_id": "language-rapid@0.2.0",
+  "_id": "language-rapid@1.0.0",
   "_inCache": true,
   "_installable": true,
   "_location": "/language-rapid",
@@ -40,7 +40,7 @@
     "atom-workspace": "language-rapid:toggle"
   },
   "bugs": {
-    "url": "https://github.com/benlsheets/language-rapid/issues"
+    "url": "https://github.com/garciadelcastillo/language-rapid/issues"
   },
   "dependencies": {},
   "description": "Atom support for the ABB RAPID language",
@@ -48,7 +48,7 @@
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
   },
-  "homepage": "https://github.com/benlsheets/language-rapid#readme",
+  "homepage": "https://github.com/garciadelcastillo/language-rapid#readme",
   "keywords": [],
   "license": "MIT",
   "main": "./lib/language-rapid",
@@ -58,7 +58,7 @@
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benlsheets/language-rapid.git"
+    "url": "git+https://github.com/garciadelcastillo/language-rapid.git"
   },
-  "version": "0.2.0"
+  "version": "1.0.0"
 }
