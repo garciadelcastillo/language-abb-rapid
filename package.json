@@ -14,10 +14,10 @@
     ]
   ],
   "_from": "..\\d-117414-9404-17asl16.unhfe6ogvi\\package.tgz",
-  "_id": "language-rapid@1.0.0",
+  "_id": "language-abb-rapid@1.0.0",
   "_inCache": true,
   "_installable": true,
-  "_location": "/language-rapid",
+  "_location": "/language-abb-rapid",
   "_phantomChildren": {},
   "_requested": {
     "raw": "C:\\Users\\jlx\\AppData\\Local\\Temp\\d-117414-9404-17asl16.unhfe6ogvi\\package.tgz",
@@ -37,28 +37,28 @@
   "_spec": "C:\\Users\\jlx\\AppData\\Local\\Temp\\d-117414-9404-17asl16.unhfe6ogvi\\package.tgz",
   "_where": "C:\\Users\\jlx\\AppData\\Local\\Temp\\apm-install-dir-117414-9404-1es7ele.cgcfcx47vi",
   "activationCommands": {
-    "atom-workspace": "language-rapid:toggle"
+    "atom-workspace": "language-abb-rapid:toggle"
   },
   "bugs": {
-    "url": "https://github.com/garciadelcastillo/language-rapid/issues"
+    "url": "https://github.com/garciadelcastillo/language-abb-rapid/issues"
   },
   "dependencies": {},
   "description": "Atom support for the ABB RAPID language",
   "devDependencies": {},
   "engines": {
-    "atom": ">=0.174.0 <2.0.0"
+    "atom": ">=1.0.0 <2.0.0"
   },
-  "homepage": "https://github.com/garciadelcastillo/language-rapid#readme",
+  "homepage": "https://github.com/garciadelcastillo/language-abb-rapid#readme",
   "keywords": [],
   "license": "MIT",
-  "main": "./lib/language-rapid",
-  "name": "language-rapid",
+  "main": "./lib/language-abb-rapid",
+  "name": "language-abb-rapid",
   "optionalDependencies": {},
-  "readme": "# language-rapid package\n\nProvides a grammar for working with the RAPID language used by ABB industrial robots.\n",
+  "readme": "# language-abb-rapid package\n\nProvides a grammar for working with the RAPID language used by ABB industrial robots.\n",
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/garciadelcastillo/language-rapid.git"
+    "url": "git+https://github.com/garciadelcastillo/language-abb-rapid.git"
   },
   "version": "1.0.0"
 }

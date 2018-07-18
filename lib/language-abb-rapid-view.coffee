@@ -3,7 +3,7 @@ class LanguageRapidView
   constructor: (serializedState) ->
     # Create root element
     @element = document.createElement('div')
-    @element.classList.add('language-rapid')
+    @element.classList.add('language-abb-rapid')
 
     # Create message element
     message = document.createElement('div')

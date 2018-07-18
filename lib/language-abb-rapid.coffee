@@ -1,4 +1,4 @@
-LanguageRapidView = require './language-rapid-view'
+LanguageRapidView = require './language-abb-rapid-view'
 {CompositeDisposable} = require 'atom'
 
 module.exports = LanguageRapid =
@@ -14,7 +14,7 @@ module.exports = LanguageRapid =
     @subscriptions = new CompositeDisposable
 
     # Register command that toggles this view
-    @subscriptions.add atom.commands.add 'atom-workspace', 'language-rapid:toggle': => @toggle()
+    @subscriptions.add atom.commands.add 'atom-workspace', 'language-abb-rapid:toggle': => @toggle()
 
   deactivate: ->
     @modalPanel.destroy()

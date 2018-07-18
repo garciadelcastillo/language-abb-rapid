@@ -1,4 +1,4 @@
-LanguageRapidView = require '../lib/language-rapid-view'
+LanguageRapidView = require '../lib/language-abb-rapid-view'
 
 describe "LanguageRapidView", ->
   it "has one valid test", ->

@@ -2,19 +2,19 @@
 'context-menu':
   'atom-text-editor': [
     {
-      'label': 'Toggle language-rapid'
-      'command': 'language-rapid:toggle'
+      'label': 'Toggle language-abb-rapid'
+      'command': 'language-abb-rapid:toggle'
     }
   ]
 'menu': [
   {
     'label': 'Packages'
     'submenu': [
-      'label': 'language-rapid'
+      'label': 'language-abb-rapid'
       'submenu': [
         {
           'label': 'Toggle'
-          'command': 'language-rapid:toggle'
+          'command': 'language-abb-rapid:toggle'
         }
       ]
     ]
