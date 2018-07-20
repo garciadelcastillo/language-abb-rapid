@@ -2,7 +2,9 @@
   "scopeName": "source.rapid",
   "fileTypes": [
     "sys",
-    "mod"
+    "mod",
+    "prg",
+    "pgf"
   ],
   "name": "RAPID",
   "patterns": [
