@@ -5,7 +5,7 @@ Provides a grammar for working in [Atom](http://www.atom.io) with the RAPID lang
 ![](assets/language-abb-rapid-banner.png)
 
 ### Installation
-Install from Atom's package manager (_wip_), or clone this repo to Atom's packages folder.
+Install from Atom's package manager, or clone this repo to Atom's packages folder.
 
 ### Contribute
 Feel free to submit PRs.

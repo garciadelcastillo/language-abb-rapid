@@ -1,4 +1,5 @@
 {
+  "name": "RAPID",
   "scopeName": "source.rapid",
   "fileTypes": [
     "sys",
@@ -6,7 +7,6 @@
     "prg",
     "pgf"
   ],
-  "name": "RAPID",
   "patterns": [
     {
       "include": "#control-words"
