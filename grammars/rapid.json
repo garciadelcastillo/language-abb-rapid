@@ -74,7 +74,7 @@
     "control-words": {
       "patterns": [
         {
-          "match": "\\b(module|MODULE|endmodule|ENDMODULE|proc|PROC|endproc|ENDPROC|func|FUNC|endfunc|ENDFUNC)\\b",
+          "match": "\\b(module|MODULE|endmodule|ENDMODULE|proc|PROC|endproc|ENDPROC|func|FUNC|endfunc|ENDFUNC|record|RECORD|endrecord|ENDRECORD)\\b",
           "name": "keyword.control.rapid"
         },
         {
@@ -94,7 +94,7 @@
           "name": "keyword.control.rapid"
         },
         {
-          "match": "\\b(return|RETURN|goto|GOTO|stop|STOP)\\b",
+          "match": "\\b(return|RETURN|goto|GOTO|stop|STOP|error|ERROR)\\b",
           "name": "keyword.control.rapid"
         }
       ]
