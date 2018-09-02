@@ -74,6 +74,10 @@
     "control-words": {
       "patterns": [
         {
+          "match": "\\b(module|MODULE|endmodule|ENDMODULE|proc|PROC|endproc|ENDPROC|func|FUNC|endfunc|ENDFUNC)\\b",
+          "name": "keyword.control.rapid"
+        },
+        {
           "match": "\\b(if|IF|then|THEN|else|ELSE|elseif|ELSEIF|endif|ENDIF)\\b",
           "name": "keyword.control.rapid"
         },
@@ -86,7 +90,7 @@
           "name": "keyword.control.rapid"
         },
         {
-          "match": "\\b(test|TEST|case|CASE|dedault|DEFAULT|endtest|ENDTEST)\\b",
+          "match": "\\b(test|TEST|case|CASE|default|DEFAULT|endtest|ENDTEST)\\b",
           "name": "keyword.control.rapid"
         },
         {
@@ -138,11 +142,7 @@
           "name": "storage.type.rapid"
         },
         {
-          "match": "\\b(pos|pose|robtarget|mecunit|wobjdata|tooldata|loaddata)\\b",
-          "name": "storage.type.rapid"
-        },
-        {
-          "match": "\\b(triggdata|speeddata|zonedata|stoppointdata)\\b",
+          "match": "\\b(pos|pose|robtarget|jointtarget|extjoint|mecunit|wobjdata|tooldata|loaddata|triggdata|speeddata|zonedata|stoppointdata)\\b",
           "name": "storage.type.rapid"
         },
         {
@@ -162,7 +162,7 @@
     "variable-modifiers": {
       "patterns": [
         {
-          "match": "\\b(const|CONST|task|TASK|inout|INOUT)\\b",
+          "match": "\\b(var|VAR|const|CONST|pers|PERS|task|TASK|inout|INOUT)\\b",
           "name": "storage.modifier.rapid"
         }
       ]
