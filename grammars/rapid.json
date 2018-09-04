@@ -162,7 +162,7 @@
     "variable-modifiers": {
       "patterns": [
         {
-          "match": "\\b(var|VAR|const|CONST|pers|PERS|task|TASK|inout|INOUT)\\b",
+          "match": "\\b(var|VAR|const|CONST|pers|PERS|task|TASK|inout|INOUT|local|LOCAL|global|GLOBAL|task|TASK)\\b",
           "name": "storage.modifier.rapid"
         }
       ]
